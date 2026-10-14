@@ -1,93 +1,60 @@
- <div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-header-light.svg">
+  <img alt="Aayush Sharma — Backend Python Developer, AI Systems, and Open Source" src="./profile-header-dark.svg" width="100%">
+</picture>
 
-# Aayush Sharma
+<p align="center">
+  <a href="https://github.com/Aayush-shrma">GitHub</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/aayush-sharma-11374b411">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/Aayush9139/">LeetCode</a>
+</p>
 
-### Backend Engineer · AI Systems · Open Source
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,fastapi,django,flask,react,postgres,mongodb,sqlite,git,github,aws&theme=dark" alt="Python, Java, JavaScript, FastAPI, Django, Flask, React, PostgreSQL, MongoDB, SQLite, Git, GitHub, and AWS" />
+</p>
 
-Building useful backend systems and AI applications.
-
-[GitHub](https://github.com/Aayush-shrma) · [LinkedIn](https://linkedin.com/in/aayush-sharma-11374b411) · [LeetCode](https://leetcode.com/u/Aayush9139/)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![AI](https://img.shields.io/badge/AI%2FLLM-7057ff?style=flat-square)
-![Open Source](https://img.shields.io/badge/Open_Source-contributor-2ea44f?style=flat-square)
-
-</div>
-
----
-
-## Selected projects
+## Selected work
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🤖 <a href="https://github.com/Aayush-shrma/AI-support-agent">AI Support Agent</a></h3>
-
-LLM-powered customer support with intent classification, grounded reply drafting, and human escalation.
-
-<strong>92.1% accuracy</strong> across six intents, against a 55.2% baseline.
-
-<sub>Python · Groq · ChromaDB · RAG</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🧠 <a href="https://github.com/Aayush-shrma/Second-brain">Second Brain</a></h3>
-
-A local-first personal knowledge engine that searches files and browser history using natural language.
-
-<strong>10,000+ items</strong> indexed with hybrid search.
-
-<sub>FastAPI · React · SQLite · ChromaDB</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🎮 <a href="https://github.com/Aayush-shrma/valorstat">Valorant Tracker</a></h3>
-
-A full-stack tracker for player stats, match history, and win-rate analytics.
-
-<strong>Under 200 ms</strong> API response times in local benchmarks.
-
-<sub>Flask · MongoDB · JavaScript</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🌱 Open Source</h3>
-
-Learning through real-world collaboration, code reviews, and contributions to projects maintained by other developers.
-
-<sub>Git · GitHub · Python · Problem solving</sub>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Aayush-shrma/AI-support-agent">01 / AI Support Agent ↗</a></h3>
+      <p>An LLM-powered support workflow for ticket classification, grounded reply drafting, and escalation to a human when risk is high.</p>
+      <p><strong>92.1% intent accuracy</strong><br><sub>55.2% majority-class baseline · 6 intents</sub></p>
+      <sub>Python · Groq · ChromaDB · RAG</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Aayush-shrma/Second-brain">02 / Second Brain ↗</a></h3>
+      <p>A privacy-first desktop memory app that makes local files and browser history searchable in natural language.</p>
+      <p><strong>10,000+ items indexed</strong><br><sub>Vector + full-text search · Local-first</sub></p>
+      <sub>Python · FastAPI · React · SQLite · ChromaDB</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Aayush-shrma/valorstat">03 / Valorant Tracker ↗</a></h3>
+      <p>A full-stack tracker for player stats, match history, and win-rate analytics, built end-to-end.</p>
+      <p><strong>Under 200 ms</strong><br><sub>API response time in local benchmarks</sub></p>
+      <sub>Python · Flask · MongoDB · JavaScript</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 / Open source</h3>
+      <p>Learning in public through real codebases, issue-driven changes, tests, and pull-request reviews.</p>
+      <p><strong><a href="https://github.com/scs0209/laya-guard/issues/51">Laya Guard · Issue #51 ↗</a></strong><br><sub>Offline verdict logging and statistics</sub></p>
+      <sub>Python · Pytest · GitHub</sub>
+    </td>
+  </tr>
 </table>
 
----
+## What I'm focused on
 
-## Tech stack
+- **Backend engineering:** REST APIs, asynchronous workflows, data modelling, and reliable services.
+- **AI systems:** LLM integration, RAG, embeddings, and retrieval evaluation.
+- **Problem solving:** DSA practice and learning by implementing, testing, and iterating.
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,fastapi,django,flask,react,postgres,mongodb,sqlite,git,github,aws&theme=dark" alt="Tech stack icons" />
-
-</div>
-
-**AI & retrieval:** LLM integration · RAG · embeddings · semantic search · ChromaDB · Ollama
-
-**Backend:** REST APIs · async programming · WebSockets · database design
-
-**Currently:** B.Tech Computer Science, Parul University · 2027 batch
+<sub>B.Tech Computer Science & Engineering · Parul University · Expected 2027</sub>
 
 ---
 
-<div align="center">
-
-*Build things. Measure results. Keep improving.*
-
-</div>
+<p align="center"><i>Build things. Measure results. Improve what doesn't work.</i></p>
