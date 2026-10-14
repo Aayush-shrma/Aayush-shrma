@@ -1,59 +1,93 @@
+ <div align="center">
+
 # Aayush Sharma
 
-**Backend Python Developer · AI Systems · Open Source**
+### Backend Engineer · AI Systems · Open Source
 
-Building backend systems and AI applications, with a focus on useful software, measurable results, and understanding what happens under the hood.
+Building useful backend systems and AI applications.
 
 [GitHub](https://github.com/Aayush-shrma) · [LinkedIn](https://linkedin.com/in/aayush-sharma-11374b411) · [LeetCode](https://leetcode.com/u/Aayush9139/)
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![AI](https://img.shields.io/badge/AI%2FLLM-7057ff?style=flat-square)
+![Open Source](https://img.shields.io/badge/Open_Source-contributor-2ea44f?style=flat-square)
 
-### `01` / Selected work
-
-**[AI Support Agent ↗](https://github.com/Aayush-shrma/AI-support-agent)**
-
-An LLM-powered support workflow that classifies tickets, drafts grounded replies, and escalates sensitive cases to humans.
-
-`Python` `Groq` `ChromaDB` `RAG`
-
-- **92.1% classification accuracy** across six intents, versus a 55.2% majority-class baseline.
-- Reply drafting grounded in 239 hand-labeled support replies.
-
-**[Second Brain ↗](https://github.com/Aayush-shrma/Second-brain)**
-
-A local-first desktop memory app for searching files, browser history, and other personal knowledge in natural language.
-
-`Python` `FastAPI` `React` `SQLite` `ChromaDB` `Ollama`
-
-- Indexes **10,000+ items** with a real-time ingestion pipeline.
-- Combines semantic vector search and full-text search, with recency-based reranking.
-
-**[Valorant Tracker ↗](https://github.com/Aayush-shrma/valorstat)**
-
-A full-stack stats tracker for player performance, match history, and win-rate analytics.
-
-`Python` `Flask` `MongoDB` `JavaScript`
+</div>
 
 ---
 
-### `02` / Tools I use
+## Selected projects
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,fastapi,django,flask,react,postgres,mongodb,sqlite,git,github,aws&theme=dark" alt="Python, Java, JavaScript, FastAPI, Django, Flask, React, PostgreSQL, MongoDB, SQLite, Git, GitHub and AWS" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**AI / search:** LLM integration · RAG · embeddings · ChromaDB · sentence-transformers · Ollama
+<h3>🤖 <a href="https://github.com/Aayush-shrma/AI-support-agent">AI Support Agent</a></h3>
 
-**Engineering:** REST APIs · asynchronous programming · WebSockets · data structures & algorithms
+LLM-powered customer support with intent classification, grounded reply drafting, and human escalation.
+
+<strong>92.1% accuracy</strong> across six intents, against a 55.2% baseline.
+
+<sub>Python · Groq · ChromaDB · RAG</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🧠 <a href="https://github.com/Aayush-shrma/Second-brain">Second Brain</a></h3>
+
+A local-first personal knowledge engine that searches files and browser history using natural language.
+
+<strong>10,000+ items</strong> indexed with hybrid search.
+
+<sub>FastAPI · React · SQLite · ChromaDB</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🎮 <a href="https://github.com/Aayush-shrma/valorstat">Valorant Tracker</a></h3>
+
+A full-stack tracker for player stats, match history, and win-rate analytics.
+
+<strong>Under 200 ms</strong> API response times in local benchmarks.
+
+<sub>Flask · MongoDB · JavaScript</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🌱 Open Source</h3>
+
+Learning through real-world collaboration, code reviews, and contributions to projects maintained by other developers.
+
+<sub>Git · GitHub · Python · Problem solving</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### `03` / A little about me
+## Tech stack
 
-- B.Tech Computer Science & Engineering, Parul University — **2027**
-- Currently improving my DSA and contributing to open-source projects.
-- Interested in backend engineering, local AI, retrieval systems, and reliable software.
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,fastapi,django,flask,react,postgres,mongodb,sqlite,git,github,aws&theme=dark" alt="Tech stack icons" />
+
+</div>
+
+**AI & retrieval:** LLM integration · RAG · embeddings · semantic search · ChromaDB · Ollama
+
+**Backend:** REST APIs · async programming · WebSockets · database design
+
+**Currently:** B.Tech Computer Science, Parul University · 2027 batch
 
 ---
 
-<sub>Learning by building. Measuring what works. Improving what doesn't.</sub>
+<div align="center">
+
+*Build things. Measure results. Keep improving.*
+
+</div>
