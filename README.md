@@ -33,7 +33,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Aayush-shrma/valorstat">03 / Valorant Tracker ↗</a></h3>
+      <h3><a href="https://github.com/Aayush-shrma/valorstat">03 / Valorant tracker ↗</a></h3>
       <p>A full-stack tracker for player stats, match history, and win-rate analytics, built end-to-end.</p>
       <p><strong>Under 200 ms</strong><br><sub>API response time in local benchmarks</sub></p>
       <sub>Python · Flask · MongoDB · JavaScript</sub>
