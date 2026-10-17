@@ -1,0 +1,14 @@
+# Editor and IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local scratch
+*.local
+*.log
+tmp/

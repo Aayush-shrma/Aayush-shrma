@@ -1,0 +1,30 @@
+name: Guestbook
+description: Say hi, leave a note, or tell me about something you're building.
+title: "[Guestbook] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for stopping by. There's no agenda here — say hi, drop a link to
+        what you're working on, or tell me what brought you to this page.
+  - type: input
+    id: who
+    attributes:
+      label: Who are you?
+      placeholder: A name, a handle, or just "anonymous"
+    validations:
+      required: false
+  - type: textarea
+    id: message
+    attributes:
+      label: Your message
+      placeholder: Hi from Berlin — I'm building a tiny scheduler in Go.
+    validations:
+      required: true
+  - type: input
+    id: project
+    attributes:
+      label: Something you're working on (optional)
+      placeholder: https://github.com/you/your-project
+    validations:
+      required: false

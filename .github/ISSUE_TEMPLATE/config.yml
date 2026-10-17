@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Say hi on X
+    url: https://x.com/Aayush9139
+    about: The fastest way to reach me.
+  - name: Connect on LinkedIn
+    url: https://linkedin.com/in/aayush-sharma-11374b411
+    about: For anything professional.
+  - name: See what I'm building
+    url: https://github.com/Aayush-shrma?tab=repositories
+    about: All of my public repositories in one place.

@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-header-light.svg">
-  <img alt="Aayush Sharma — Backend Python Developer building AI systems" src="./profile-header-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg">
+  <img alt="Aayush Sharma — Backend Python Developer building AI systems" src="./assets/profile-header-dark.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -24,6 +24,7 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Aayush-shrma?label=followers&amp;style=flat-square&amp;color=60a5fa">
   <img alt="Based in India" src="https://img.shields.io/badge/India-Asia%2FKolkata-a78bfa?style=flat-square">
   <img alt="B.Tech CSE, expected 2027" src="https://img.shields.io/badge/B.Tech%20CSE-2027-10b981?style=flat-square">
+  <a href="https://github.com/Aayush-shrma/Aayush-shrma/issues/new?template=guestbook.yml"><img alt="Sign the guestbook" src="https://img.shields.io/badge/Guestbook-sign_it-8B5CF6?style=flat-square&amp;logo=github&amp;logoColor=white"></a>
 </p>
 
 I'm a CS undergrad from India who learns by shipping. Most of what I build is backend Python — REST APIs, data models, async workflows, and LLM pipelines — wrapped in a UI someone can actually use. Then I measure what broke and fix it.
@@ -122,7 +123,17 @@ flowchart LR
   </picture>
 </p>
 
-<sub>Public repos, contributions, and the streak I'd rather not break.</sub>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aayush-shrma/Aayush-shrma/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aayush-shrma/Aayush-shrma/output/github-snake.svg">
+    <img alt="An animated snake eating through my GitHub contribution graph" src="https://raw.githubusercontent.com/Aayush-shrma/Aayush-shrma/output/github-snake.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <sub>Streak card and contribution snake are generated automatically — the snake is rebuilt nightly by <a href="https://github.com/Aayush-shrma/Aayush-shrma/blob/main/.github/workflows/snake.yml">this workflow</a>.</sub>
+</p>
 
 ---
 
@@ -135,8 +146,12 @@ flowchart LR
   <a href="https://github.com/Aayush-shrma?tab=repositories"><b>All repositories</b></a>
 </p>
 
+<a href="https://github.com/Aayush-shrma/Aayush-shrma/issues/new?template=guestbook.yml"><b>Sign the guestbook</b></a> — say hi, or tell me what you're building.
+
 If you're building something backend- or retrieval-shaped, I'd like to hear about it — open an issue, or just say hi.
 
 <p><sub>B.Tech Computer Science &amp; Engineering · Parul University · Expected 2027</sub></p>
 
 <p align="center"><i>Build things. Measure results. Improve what doesn't work.</i></p>
+
+<p align="center"><sub>MIT licensed · Last redesigned October 2026</sub></p>
