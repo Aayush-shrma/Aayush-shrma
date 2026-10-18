@@ -36,7 +36,7 @@ I'm a CS undergrad from India who learns by shipping. Most of what I build is ba
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Aayush-shrma/Daily-log">01 · Daily Log</a> &nbsp;<a href="https://daily-log-xzk3.onrender.com/"><kbd>live ↗</kbd></a></h3>
+      <h3><a href="https://github.com/Aayush-shrma/daylog-v1">01 · DayLog</a> &nbsp;<a href="https://daylog-v1.vercel.app/"><kbd>live ↗</kbd></a></h3>
       <p>Paste the messy version of your day; get clean bullets and a ready-to-post tweet. 365-day heatmap, streaks, and bring-your-own-key AI that never leaves the browser.</p>
       <p><strong>148 tests green</strong><br><sub>Multi-stage Docker · served same-origin with httpOnly sessions</sub></p>
       <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white"> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB"> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white"> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white">
