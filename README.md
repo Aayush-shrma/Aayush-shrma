@@ -27,7 +27,7 @@
   <a href="https://github.com/Aayush-shrma/Aayush-shrma/issues/new?template=guestbook.yml"><img alt="Sign the guestbook" src="https://img.shields.io/badge/Guestbook-sign_it-8B5CF6?style=flat-square&amp;logo=github&amp;logoColor=white"></a>
 </p>
 
-I'm a CS undergrad from India who learns by shipping Most of what I build is backend Python — REST APIs, data models, async workflows, and LLM pipelines — wrapped in a UI someone can actually use. Then I measure what broke and fix it.
+I'm a CS underGrad from India who learns by shipping Most of what I build is backend Python — REST APIs, data models, async workflows, and LLM pipelines — wrapped in a UI someone can actually use. Then I measure what broke and fix it.
 
 ---
 
